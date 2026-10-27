@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+.venv313/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
